@@ -1,4 +1,4 @@
-const { ApplicationCommandOptionType, EmbedBuilder} = require(`discord.js`);
+const { ApplicationCommandOptionType, EmbedBuilder } = require(`discord.js`);
 const { pushData, getData, pullData, searchMovieById } = require("../../Handler/functions");
 
 module.exports = {
