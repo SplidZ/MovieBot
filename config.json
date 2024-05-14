@@ -1,0 +1,9 @@
+{
+    "api": {
+        "url": "http://www.omdbapi.com/",
+        "authorizationKey": "f4a53d9"
+    },
+    "bot": {
+        "token": "MTIzOTYzMjU1MjY3MTcwNzIwNg.Gf0sG2.kbyxxGrF_AVALXgeP-i8cCDTiuAkoC-UeuVrbY"
+    }
+}
